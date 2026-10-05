@@ -1,0 +1,6 @@
+{
+  "name": "EventKalam — Event Management & Showcase Platform",
+  "description": "Event management and showcase platform by Robokalam Technologies. Browse upcoming events, register seamlessly, and explore past event highlights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
